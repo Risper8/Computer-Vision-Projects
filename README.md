@@ -26,3 +26,10 @@ Overview: Gender classification based on images.
 Aim: To develop a system capable of predicting age, gender, and race from images, supporting TeleHospital diagnosis.
 
 Technologies: Python, Tensorflow, Keras, and Scikit-Learn.
+
+### 3. Muzzle Object detection
+Overview: This model detects a muzzle of a cow from an image.
+
+Aim: To develop an identification system.
+
+Technologies: Python, Transformers, Pytorch.
