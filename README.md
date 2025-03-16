@@ -6,16 +6,23 @@ Welcome to my Computer Vision Portfolio, showcasing a collection of projects tha
 
 ## Projects
 
-### 1. Skin Cancer Classification and Segementation
-Overview: Classifying different skin cancer types, segmenting and the severity of the cancer(benign and malignant).
+### 1. Skin Cancer Classification and Segmentation
+Overview: This project focuses on classifying various skin cancer types, segmenting affected areas, and determining cancer severity (benign or malignant).
 
-Aim: For faster identification of skin cancer cases even in their early stages and enable make informed decisions.
+Aim: To enable faster identification of skin cancer, even in its early stages, and support informed decision-making.
 
-Technologies: Python, tensorflow, keras, Scikit-Learn
+Technologies: Python, Tensorflow, Keras, and Scikit-Learn
 
 ### 2. Body Part Classification
-Overview: Classification of body parts based on  picture.
+Overview: Classification of body parts based on a picture.
 
-Aim: This is just an extension of skin disease classiication where by it could identify symptoms based on images eg skin rash but the part identified with the skin rash is the leg.
+Aim: This extends skin disease classification by identifying symptoms from images, such as detecting a skin rash and specifying the affected area (e.g., the leg).
 
-Technologies: Python, tensorflow, keras, Scikit-Learn
+Technologies: Python, Tensorflow, Keras, and Scikit-Learn.
+
+### 3. Gender Classification
+Overview: Gender classification based on images.
+
+Aim: To develop a system capable of predicting age, gender, and race from images, supporting TeleHospital diagnosis.
+
+Technologies: Python, Tensorflow, Keras, and Scikit-Learn.
